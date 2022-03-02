@@ -1,0 +1,30 @@
+.container-fluid {
+    line-height: 2;
+    width: 100vw;
+    background-color: #FF3CAC;
+    background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    line-height: 1.2 !important;
+}
+p, #links {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 200;
+    text-align: justify;
+}
+
+a {
+    color: #8fb5ef !important;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    width: 100vw;
+    min-height: 100vh;
+}
